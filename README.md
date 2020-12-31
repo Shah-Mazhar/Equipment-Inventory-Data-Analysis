@@ -2,8 +2,8 @@
 
 Excel:
 
-•	Cleaned the dataset by filtering, sorting, spell checking and removing duplicates, white spaces and empty rows.
+•	Cleaned the dataset by filtering, sorting, spell checking and removing duplicates, white spaces, and empty rows.
 
-•	Used AutoSum for a basic statistic for "Equipments Count" column that contained sum, average, min, max and count.
+•	Used AutoSum function for a basic statistic for "Equipment Count" column that contained sum, average, min, max and count.
 
 •	Created 3 different pivot table that breakdown the data by different columns to have different perspective of the dataset.
