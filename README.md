@@ -14,9 +14,8 @@
 
 ## Snapshot of Complete Dataset:
 
-![Snapshot of Complete Dataset](https://user-images.githubusercontent.com/55895245/103471444-96ef8700-4d4e-11eb-80ca-9c5d7cebb131.png)
+![Snapshot of Complete Dataset](https://user-images.githubusercontent.com/55895245/103483589-4e6bb400-4db6-11eb-8ce4-24d35e61e900.png)
 
 ## Snapshot of One of the Pivot Table
 
-![Snapshot of One of the Pivot Table](https://user-images.githubusercontent.com/55895245/103471445-97881d80-4d4e-11eb-9386-9da95197a1bb.png)
-
+![Snapshot of One of the Pivot Table](https://user-images.githubusercontent.com/55895245/103483590-4e6bb400-4db6-11eb-840e-56fa5f8b728c.png)
