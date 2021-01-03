@@ -12,3 +12,11 @@
 
 ![Snapshot of Raw Dataset](https://user-images.githubusercontent.com/55895245/103471423-2e080f00-4d4e-11eb-95ea-2a9cd7b091c6.png)
 
+## Snapshot of Complete Dataset:
+
+![Snapshot of Complete Dataset](https://user-images.githubusercontent.com/55895245/103471444-96ef8700-4d4e-11eb-80ca-9c5d7cebb131.png)
+
+## Snapshot of One of the Pivot Table
+
+![Snapshot of One of the Pivot Table](https://user-images.githubusercontent.com/55895245/103471445-97881d80-4d4e-11eb-9386-9da95197a1bb.png)
+
