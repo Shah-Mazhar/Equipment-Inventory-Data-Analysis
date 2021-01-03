@@ -10,5 +10,5 @@
 
 ## Snapshot of Raw Dataset:
 
-![Snapshot of Raw Dataset](https://user-images.githubusercontent.com/55895245/103471399-df5a7500-4d4d-11eb-9d6f-6a6f912d4711.png)
+![Snapshot of Raw Dataset](https://user-images.githubusercontent.com/55895245/103471423-2e080f00-4d4e-11eb-95ea-2a9cd7b091c6.png)
 
